@@ -1,0 +1,9 @@
+# What is the web?
+
+A lot of computers talking to each other.
+
+
+# local vs production/deployed
+1. local - on your computer, on your network.
+2. production - the internet...
+
