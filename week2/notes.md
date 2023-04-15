@@ -14,6 +14,11 @@ Todos before next one:
 # Git
 what is it?
 
+## useful commands
+1. diff - see differences
+2. commit - save your changes
+3. pull & push - get and send your changes
+
 ## Example
 
 ### this code doesn't work

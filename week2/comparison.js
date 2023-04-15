@@ -1,10 +1,10 @@
 var session = {
   user: {
-    loggedIn: false,
+    loggedIn: true,
   },
 };
 
-if (user.loggedIn === true) {
+if (session.user.loggedIn) {
   console.log("You are logged in");
 } else {
   console.log("You are logged out.");
