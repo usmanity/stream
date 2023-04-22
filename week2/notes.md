@@ -64,3 +64,7 @@ terminal: a program that runs your shell, same thing as a cli
 1. I'm going set up remarkable to demo concepts
 2. hopefully the stream was comprehensive enough.
 3. recorded video was not high quality, was probably around 720p.
+
+is there a delay?
+60 fps
+with a quick response fully
