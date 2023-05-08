@@ -1,7 +1,5 @@
 # things to cover in the future
 
-- welcome page
-- Markdown extensions for VS Code? + .sh?
 - Links page
-- Some new tools to talk about
 - Regexes
+- Every stream, I will talk about a tool I'm using
