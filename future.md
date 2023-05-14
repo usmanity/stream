@@ -6,9 +6,11 @@
 - aliases and functions in CLI
 - bot for purchasing "things"
 - build a 4 day work week jobs listing website
-- talk about zshrc or bashrc
+- talk about zshrc or bashrc + dotfiles
+- video editing software
+- fix the welcome screen centering
+- replicas repo
 
-# tools
+# tools to cover
 
 - atuin
-- autojump
