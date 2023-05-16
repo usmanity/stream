@@ -1,6 +1,5 @@
 # things to cover in the future
 
-- Every stream, I will talk about a tool I'm using
 - macros in VS code
 - Regexes
 - aliases and functions in CLI
@@ -14,3 +13,8 @@
 # tools to cover
 
 - atuin
+
+# Stream structure
+
+- Every stream, I will talk about a tool I'm using
+- Chat about stream, people, Q&A times
