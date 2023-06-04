@@ -17,4 +17,4 @@
 # Stream structure
 
 - Every stream, I will talk about a tool I'm using
-- Chat about stream, people, Q&A times
+- Chat about stream, people, Q&A
